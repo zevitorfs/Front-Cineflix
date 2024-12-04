@@ -23,7 +23,7 @@ export default function Home() {
             Stranger Things
           </h1>
           <p className='text-shadow-md max-w-xs text-xs md:max-w-lg md:text-lg lg:max-w-2xl'>
-            Stranger Things is a supernatural action-drama TV series set in the fictional town of Hawkins, Indiana. The show is inspired by 80s pop-culture and elements of Stephen King's works.
+            Stranger Things is a supernatural action-drama TV series set in the fictional town of Hawkins, Indiana. The show is inspired by 80s pop-culture and elements of Stephen Kings works.
           </p>
         </div>
         <div className="flex space-x-3">
