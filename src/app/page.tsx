@@ -10,7 +10,7 @@ export default function Home() {
         <div className='flex flex-col space-y-2 py-16 md:space-y-4 lg:h-[65vh] lg:justify-end lg:pb-12'>
           <div className='absolute left-0 top-0 -z-10 flex h-[95vh] w-screen flex-col bg-black'>
           <Image
-            src='/Banner_stragerthing.png'
+            src='/banner_strangerthing.jpg'
             alt='Banner Stranger Things'
             fill={true}
             className ='h-[65vh] object-cover object-top lg:h-[95vh]'
